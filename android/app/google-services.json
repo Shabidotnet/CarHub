@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276559663585",
+    "project_id": "carhub-b29fe",
+    "storage_bucket": "carhub-b29fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276559663585:android:c61f17e76592bc9d2782a0",
+        "android_client_info": {
+          "package_name": "com.carhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOoW_ycmm6qS_pWq1Y0EgIPHLMHbFR5Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
